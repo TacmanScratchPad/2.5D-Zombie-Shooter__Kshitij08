@@ -25,7 +25,7 @@ public class playerHealth : MonoBehaviour
 	void Awake () {
         currentHealth = fullHealth;
         playerHealthSlider.maxValue = fullHealth;
-        playerHealthSlider.value = currentHealth;
+//        playerHealthSlider.value = currentHealth;
 
         playerAS = GetComponent<AudioSource>();
 

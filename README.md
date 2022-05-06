@@ -1,6 +1,8 @@
 # 2.5D-Zombie-Shooter
 A 2.5D Zombie Shooter made using Unity
 
+2021.3 update: script error when soldier attacks.  Not sure what the issue is.
+
 ---
 ## Screenshots of the Game
 ![zombie shooter 1](https://user-images.githubusercontent.com/36204389/47855511-d5a1f380-de0a-11e8-9014-79ab6e3b3c1d.PNG)
